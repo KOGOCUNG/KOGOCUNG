@@ -12,14 +12,20 @@
 },
  
 {
-"name": " BONDTV ","image": "https://png.pngtree.com/png-vector/20220131/ourmid/pngtree-tv-logo-design-concept-company-elegant-multimedia-vector-png-image_23589598.png",
+"name": " BONDTV ","image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/3RD_TV_Logo.png",
 "url": "https://raw.githubusercontent.com/BONDiptv/playlist_BONDtv/refs/heads/main/Playlist",
 "import": true
 },
  
 {
 "name": " HOMETV ","image": "https://play-lh.googleusercontent.com/K4sAYzk9n97tNGCHoWaF3WChgnUvSwkZE7a-H4HsuTJNHcPqudDfi8i-NnPCMAI36b8",
-"url": "https://https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/numg.m3u",
+"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/numg.m3u",
+"import": true
+},
+ 
+{
+"name": " HOMETV ","image": "https://play-lh.googleusercontent.com/K4sAYzk9n97tNGCHoWaF3WChgnUvSwkZE7a-H4HsuTJNHcPqudDfi8i-NnPCMAI36b8",
+"url": "https://raw.githubusercontent.com/Soponwit19997/IPTV/main/Digital_TV.m3u",
 "import": true
 },
 
