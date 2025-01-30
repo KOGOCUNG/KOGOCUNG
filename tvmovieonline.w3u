@@ -6,46 +6,10 @@
 "groups": [
  
 {
-"name": " Tvallseries ","image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-"url": "https://drive.google.com/uc?id=1CK71aLlKt52aCf_WR4ZQEmfGZiNou-N1",
-"import": true
-},
- 
-{
-"name": " Dooseries4k ","image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
-"url": "https://drive.google.com/uc?id=15054Zyjz2PK7EJ8d9xnBgrNS6VZwWh8L",
-"import": true
-},
- 
-{
-"name": " Anime-Indy ","image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
-"url": "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he",
-"import": true
-},
- 
-{
-"name": " Anime Moji ","image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
-"url": "https://drive.google.com/uc?id=196x0N2t-khH8pxP8dmY24RwVizc_VB5w",
-"import": true
-},
- 
-{
-"name": " 123 HD ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url": "https://drive.google.com/uc?id=1T4Mo-w5413bTyIsp7N_bu7o09RkRb0Bj",
-"import": true
-},
- 
-{
-"name": " 24-HD ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
-"url": "https://drive.google.com/uc?id=1HHBM_V56tUVl6ZvceCnzPVa5o0-Nw7SM",
-"import": true
-},
- 
-{
 "name": " DADDYHD ","image": "https://play-lh.googleusercontent.com/K4sAYzk9n97tNGCHoWaF3WChgnUvSwkZE7a-H4HsuTJNHcPqudDfi8i-NnPCMAI36b8",
 "url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/livetv.m3u",
 "import": true
 },
- 
+
 ]
 }
