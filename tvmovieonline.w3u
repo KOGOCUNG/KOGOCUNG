@@ -42,20 +42,10 @@
 },
  
 {
-"name": " Series-indy ","image": "https://play-lh.googleusercontent.com/K4sAYzk9n97tNGCHoWaF3WChgnUvSwkZE7a-H4HsuTJNHcPqudDfi8i-NnPCMAI36b8",
-"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/livetv.m3u",
+"name": " DADDYHD LIVE ","image": "https://play-lh.googleusercontent.com/K4sAYzk9n97tNGCHoWaF3WChgnUvSwkZE7a-H4HsuTJNHcPqudDfi8i-NnPCMAI36b8",
+"url": "https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/daddyhdlive.m3u",
 "import": true
 },
- 
-]
-}
-{
-"name": " JAV ","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtOAPaogCnRPQzBwP9lHv7pXba5h4ghJzVMw&s",
-"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/avporn.m3u",
-"import": true
-},
- 
- 
  
 ]
 }
