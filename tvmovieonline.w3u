@@ -4,10 +4,10 @@
 "image":"https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png",
 "url": "https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/tvmovieonline.w3u",
 "groups": [
- 
+
 {
-"name": " DADDYHD ","image": "https://png.pngtree.com/png-vector/20220131/ourmid/pngtree-tv-logo-design-set-isolated-vector-business-vector-png-image_23589620.png",
-"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/livetv.m3u",
+"name": " PLAYID ","image": "https://images.seeklogo.com/logo-png/45/2/pay-id-logo-png_seeklogo-450734.png",
+"url": "http://playid.ddnsgeek.com:8080/playidtv1/12345/18757",
 "import": true
 },
  
@@ -16,12 +16,7 @@
 "url": "https://raw.githubusercontent.com/BONDiptv/playlist_BONDtv/refs/heads/main/Playlist",
 "import": true
 },
- 
-{
-"name": " HOMETV ","image": "https://play-lh.googleusercontent.com/K4sAYzk9n97tNGCHoWaF3WChgnUvSwkZE7a-H4HsuTJNHcPqudDfi8i-NnPCMAI36b8",
-"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/numg.m3u",
-"import": true
-},
+
  
 {
 "name": " DIGITV ","image": "https://www.hs3lzx.com/wp-content/uploads/2014/04/doodee-sticker.png",
@@ -30,10 +25,17 @@
 },
 
 {
-"name": " PLAYID ","image": "https://images.seeklogo.com/logo-png/45/2/pay-id-logo-png_seeklogo-450734.png",
-"url": "http://playid.ddnsgeek.com:8080/playidtv1/12345/18757",
+"name": " IPTVplus ","image": "https://png.pngtree.com/png-vector/20220131/ourmid/pngtree-tv-logo-design-set-isolated-vector-business-vector-png-image_23589620.png",
+"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/livetv.m3u",
 "import": true
 },
+
+{
+"name": " KameTV ","image": "https://play-lh.googleusercontent.com/K4sAYzk9n97tNGCHoWaF3WChgnUvSwkZE7a-H4HsuTJNHcPqudDfi8i-NnPCMAI36b8",
+"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/numg.m3u",
+"import": true
+},
+
 
 ]
 }
